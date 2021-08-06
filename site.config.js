@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Aviation_wiki-d72e7f2a74f040debb07bf358e2d54a3',
+  rootNotionPageId: 'd72e7f2a74f040debb07bf358e2d54a3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
